@@ -9,10 +9,10 @@ Clone:
   Your definition:
 
 Fork:
-  Your definition:
+  Your definition: A version of someone else's repository that you create through GitHub, it links back to the original.
 
 Branch:
-  Your definition:
+  Your definition: A line of commits in a repository.
 
 Pull request:
   Your definition:
@@ -23,4 +23,4 @@ Merge:
 Upstream tracking (git push -u):
   Your definition:
 
-Completed by:
+Completed by: Cole Mainville, Cole-Mainville
